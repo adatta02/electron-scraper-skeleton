@@ -23,7 +23,7 @@ npm install
 
 To launch
 
-## Oh but is there's more?
+## Oh but is there more?
 Just one more! As of 3/17/17 it's possible to use the Tor client as a SOCKS proxy which Electron can be configured to use. So if you download and launch Tor you can launch Electron with the following to pipe your traffic through Tor:
 
 ```bash
